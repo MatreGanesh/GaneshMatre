@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **deployment of MERN applications on AWS**
 - 🤝 I’m looking for help with **deploying applications on AWS**
 - 💬 Ask me about **Frontend, Backend, JavaScript, React.js, Node.js, Express.js, MongoDB, DevOps, etc**
-- 📫 You can reach out to me at [MatreGanesh.b@gmail.com](mailto:ganeshmatre50@gmail.com)
+- 📫 You can reach out to me at [ganeshmatre50@gmail.com](mailto:ganeshmatre50@gmail.com)
 - 🌐 Visit my portfolio at [https://MatreGanesh-portfolio.netlify.app](https://MatreGanesh-portfolio.netlify.app)
 - 👨‍💻 All of my projects are available at [https://github.com/MatreGanesh](https://github.com/MatreGanesh)
 - ⚡ Fun fact: **I love playing chess and cricket**

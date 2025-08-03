@@ -20,7 +20,7 @@
 
 ### 🚀 About Me
 
-I am a results-driven **MERN Stack | Fullstack Developer** with 3+ years of experience in building and deploying high-performance web applications. I specialize in technologies like **React.js, Node.js, Express.js, MongoDB, and MySQL**, creating **scalable, secure, and maintainable** solutions.
+I am a results-driven **MERN Stack | Fullstack Developer** with 1.6+ years of experience in building and deploying high-performance web applications. I specialize in technologies like **React.js, Node.js, Express.js, MongoDB, and MySQL**, creating **scalable, secure, and maintainable** solutions.
 
 I’m experienced in building **RESTful & GraphQL APIs**, real-time applications with **Socket.io**, and implementing secure authentication using **JWT and OAuth**. I've worked with **microservices**, **Redis**, and deployed using **Docker, Kubernetes, AWS**, and **CI/CD pipelines** like GitHub Actions and Jenkins.
 
